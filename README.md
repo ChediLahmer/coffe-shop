@@ -26,7 +26,7 @@ Secure user authentication and data handling
 The website was developed using the following technologies:
 HTML5
 CSS3
-JavaScript (Vanilla JS and possibly frameworks like jQuery)
+JavaScript 
 PHP for server-side processing
 Figma for design and prototyping
 phpmyadmin for data storage
