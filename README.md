@@ -47,7 +47,16 @@ Place an order and proceed to the checkout page.
 Fill in the contact form if you have any queries or feedback.
 Enjoy the interactive design and smooth navigation of the website.
 ### Screenshots
-open screenshot file
+![Screenshot_1](https://github.com/ChediLahmer/coffe-shop/assets/131680831/3754b532-6afe-4b95-b6b0-301f5232ec35)
+![Screenshot_2](https://github.com/ChediLahmer/coffe-shop/assets/131680831/42794649-a9ce-43a6-9866-0a2dd8870cb9)
+![Screenshot_3](https://github.com/ChediLahmer/coffe-shop/assets/131680831/914921d2-5730-4275-abe3-1c339877ed7a)
+![Screenshot_4](https://github.com/ChediLahmer/coffe-shop/assets/131680831/e4d8ee41-27fa-4be0-9cff-fae5ef389bdd)
+![Screenshot_5](https://github.com/ChediLahmer/coffe-shop/assets/131680831/777dd561-d35a-4dd6-b751-52413536141c)
+![Screenshot_6](https://github.com/ChediLahmer/coffe-shop/assets/131680831/53598c2f-0ed8-438b-b9b4-36c7d1c63940)
+![Screenshot_7](https://github.com/ChediLahmer/coffe-shop/assets/131680831/30e2510f-dada-4887-81ce-7e1890e97600)
+![Screenshot_8](https://github.com/ChediLahmer/coffe-shop/assets/131680831/605cf9d2-d650-4567-a0f8-67386f7b0d2e)
+![Screenshot_9](https://github.com/ChediLahmer/coffe-shop/assets/131680831/70698e7b-d738-4aca-bf92-a8aa877d34ce)
+
 ### Contributing
 We welcome contributions from the community! If you find any issues or have suggestions to improve the website, please feel free to submit a pull request.
 ### License
