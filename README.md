@@ -29,6 +29,7 @@ CSS3
 JavaScript (Vanilla JS and possibly frameworks like jQuery)
 PHP for server-side processing
 Figma for design and prototyping
+phpmyadmin for data storage
 ### Installation
 To run this website locally, follow these steps:
 Clone the repository to your local machine using Git:
