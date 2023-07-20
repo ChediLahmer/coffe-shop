@@ -57,7 +57,6 @@ Enjoy the interactive design and smooth navigation of the website.
 ![Screenshot_11](https://github.com/ChediLahmer/coffe-shop/assets/131680831/57414245-16f8-4cc7-9e02-dc33fa9b3e2b)
 ![Screenshot_12](https://github.com/ChediLahmer/coffe-shop/assets/131680831/39dd47b9-db38-4a0c-a5df-0361404629f2)
 ![Screenshot_10](https://github.com/ChediLahmer/coffe-shop/assets/131680831/5e6a23a0-52a4-4112-8d83-fe377b4a8880)
-8-4aca-bf92-a8aa877d34ce)
 ![Screenshot_8](https://github.com/ChediLahmer/coffe-shop/assets/131680831/605cf9d2-d650-4567-a0f8-67386f7b0d2e)
 ![Screenshot_9](https://github.com/ChediLahmer/coffe-shop/assets/131680831/70698e7b-d738-4aca-bf92-a8aa877d34ce)
 
